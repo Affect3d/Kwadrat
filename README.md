@@ -1,0 +1,2 @@
+# Kwadrat
+równanie kwadratowe
